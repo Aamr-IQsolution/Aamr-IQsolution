@@ -80,6 +80,7 @@ nav {
     display: none;
     border-radius: 6px;
 }
+.dropdown li {padding-top: 10px; text-align: left; ; }
 .services:hover .dropdown { display: block; }
 
 /* container for main content */
